@@ -1,3 +1,57 @@
-p{
-    color: red;
+.logoone{
+display: flex;
+align-items: center;
+gap: 10px;
+margin: 0px 120px;
+font-size: 10px;
+padding: 0px 10px ;
+gap: 4px;
+}
+.logoone img{
+
+    width: 20px;
+    gap: 2px;
+}
+.logoone span{
+    display: block;
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+
+}
+.hello1{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+    
+}
+.hello1 a{
+    text-decoration: none;
+    color: black;
+    font-size: 13px;
+}
+nav button{
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px 30px ;
+    margin: 10px 100px;
+    height: 36px;
+    
+
+}
+.hello2{
+    margin: auto;
+}
+body{
+    
+    margin: 0px;
+
+    
+}
+header{
+    background-color:#ffffff;
 }
