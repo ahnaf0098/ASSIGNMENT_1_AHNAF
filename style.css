@@ -84,7 +84,7 @@ background-color: blue;
     border-radius: 10px;
     cursor: pointer;
     padding: 10px 30px;
-    margin: 250px 100px;
+    margin: 230px 100px;
     height: 36px;
     font-size: 15px;
     font-weight: 600;
@@ -117,4 +117,127 @@ background-color: blue;
     margin-top: 40px;
     gap: 5px;
 
+}
+.world2{
+     
+    margin-left: 550px;
+    margin-top: 40px;
+}
+.hello11{
+    display: flex;
+    flex-direction: column;
+    
+}
+.hard22{
+
+    display: flex;
+    gap:50px;
+}
+.hello11 {
+    width: 500px;
+    margin-left: 150px;
+    gap: 2px;
+    
+    border-radius: 5px;
+}
+.hello13 img{
+    width: 500px;
+
+    
+}
+.hard22{
+
+    border: 10px;
+}
+.hello11 p, .hello13 p{
+
+    margin: 5px 0;
+}
+.hello11 h4, .hello13 h4{
+    margin: 5px 0;
+}
+.SMALL1{
+    font-size: 10px;
+    color: blue;
+}
+.hello11 p{ margin: 2px; 
+    
+    
+}
+.name{
+    font-size: 20px;
+    font-weight: 600;
+}
+.name2{
+    font-size: 12px;
+    font-weight: 200;
+}
+.hero1{
+    display: flex;
+    gap: 50px;
+    margin-left: 150px;
+    flex-direction: row;
+    margin-top: 20px;
+    margin-right: 140px;
+}
+.hero2 img, .hero3 img{
+    width: 500px;
+    
+}
+.hero3{
+
+    border: 1px ;
+}
+.too{
+
+    font-size:10px ;
+    color: blue;
+    margin-left: 5px;
+    
+}
+.jojo{
+    margin: 5px 0;
+    line-height: 0.5;
+    font-size:20px ;
+    font-weight: 600;
+    color: black;
+    margin-left: 5px;
+}
+.lol{
+    font-size: 12px;
+    font-weight: 200;
+    line-height: 0.9;
+    color: grey;
+    margin-left: 5px;
+}
+.hero2{
+    border-radius: 10px;
+    border: 1px solid #f1f1f1 ;
+    
+    
+}
+.hero3{
+    border-radius: 10px;
+    border: 1px solid #f1f1f1;
+}
+.name2{
+    color: gray;
+}
+.winner11{
+
+    margin-left: 580px;
+    margin-top: 120px;
+    font-size: 30px;
+    font-weight: 600;
+    
+}
+.winner1{
+
+    font-size: 10px;
+    color: gray;
+    margin-left: 605px;
+    line-height: 0.1;
+}
+.winner{
+    line-height: 0.3;
 }
