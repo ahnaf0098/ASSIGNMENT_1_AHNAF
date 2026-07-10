@@ -55,3 +55,66 @@ body{
 header{
     background-color:#ffffff;
 }
+.hello3{
+
+    background-image: url(./banner.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 550px;
+    width: 100%;
+    background-image:linear-gradient(rgba(0,0,0,0.8), rgba(0,0,0,0.1)),url("./banner.jpg")
+}
+.hello3{
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items:center;
+    position: relative;
+
+
+
+}
+.hello4{
+
+background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    padding: 10px 30px;
+    margin: 250px 100px;
+    height: 36px;
+    font-size: 15px;
+    font-weight: 600;
+    
+
+}
+.hello5{
+
+    color: #ffffff;
+    margin-top: 150px ;
+    
+
+}
+#world1{
+    margin-top: 10px;
+    font-size: 58px;
+    padding-top: 20px;
+    margin-left: 80px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+.hello7{
+
+    font-size: 14px;
+    margin-left: 100px;
+    
+}
+.hello5{
+
+    margin-top: 40px;
+    gap: 5px;
+
+}
