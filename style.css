@@ -652,3 +652,119 @@ line-height: 1.9;
     margin-bottom:20px;
     border-radius:15px;
 }
+.ahnaf1{
+
+    display: flex;
+    justify-content: space-between;
+    max-width: 100%;
+    margin:0px;
+
+}
+.name111{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.name22{
+    display: flex;
+    margin-right: 100px;
+    flex-direction: column;
+}
+.name111{
+    margin-left: 120px;
+
+}
+.name111 img{
+
+    width: 30px;
+    height: 30px;
+    margin-top: -65px;
+    margin-left: -100px;
+}
+.tiger{
+
+    font-size: 12px;
+    margin-top: -60px;
+    margin-left:px;
+    color:darkblue;
+    font-weight: 700;
+    
+}
+.lion{
+
+    margin-right: 40px;
+    margin-top: -60px;
+    font-size: 20px;
+    color: whitesmoke;
+    font-weight: 900;
+}
+
+
+
+.srabon2{
+
+    font-size: 15px;
+    margin-top: 100px;
+    margin-left: auto;
+    font-weight: 700;
+    color:white;
+
+}
+.w1{
+
+    margin-left: 105px;
+    background:linear-gradient(to right, #94A3B8,#111827);
+    border: 1px solid #111827;
+    border-radius: 10px;
+    margin-right: 105px;
+    padding: 80px 50px;
+    
+}
+.q1{
+    color:white;
+    margin: 4px;
+}
+.q1:hover{
+color: purple;
+}
+
+
+#nothing{
+
+    border: 1px solid grey;
+    margin-top: 80px;
+}
+.top{
+    display: flex;
+    justify-content: right;
+    
+    
+}
+.xray{
+    color: white;
+    margin-left: -2px;
+    margin-top: -100px;
+    font-size: 20px;
+    font-weight: 900;
+}
+.bad{
+    color: white;
+    font-size: 12px;
+}
+.bad1{
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+}
+.bad3{
+    color: grey;
+}
+
+.e12{
+
+    color: darkblue;
+    display: block;
+    margin: 0px;
+    margin-left: 0px;
+}
